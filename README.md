@@ -8,4 +8,6 @@ Visit [https://box2d.org/](https://box2d.org/) for further information and docum
 
 Contains a `d.ts` file for typescript developer.
 
+Contains a Chinese document (v2) translated by `Aman JIANG`.
+
 
